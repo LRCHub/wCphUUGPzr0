@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Forget-Me-Not",
+  "base_artist": "Laufey",
+  "createdAt": "2026-03-29T15:19:18.479452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "forget—me—not! (feat. Instupendo)",
+      "artist": "MISOGI feat. Instupendo",
+      "has_synced": false,
+      "path": "select/01_forget—me—not!_(feat._Instupendo)_MISOGI_feat._Instupendo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "forget—me—not! (feat. Instupendo)",
+      "artist": "MISOGI",
+      "has_synced": false,
+      "path": "select/02_forget—me—not!_(feat._Instupendo)_MISOGI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/03_Forget_Me_Not_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Inspectah Deck",
+      "has_synced": true,
+      "path": "select/04_Forget_Me_Not_Inspectah_Deck.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Jennifer Paige",
+      "has_synced": true,
+      "path": "select/05_Forget_Me_Not_Jennifer_Paige.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Lucie Silvas",
+      "has_synced": true,
+      "path": "select/06_Forget_Me_Not_Lucie_Silvas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forget Me Not ◐",
+      "artist": "HONNE",
+      "has_synced": true,
+      "path": "select/07_Forget_Me_Not_◐_HONNE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Martha Reeves and The Vandellas",
+      "has_synced": false,
+      "path": "select/08_Forget_Me_Not_Martha_Reeves_and_The_Vandellas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "The Civil Wars",
+      "has_synced": true,
+      "path": "select/09_Forget_Me_Not_The_Civil_Wars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "forget-me-not",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/10_forget-me-not_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Boston Manor",
+      "has_synced": true,
+      "path": "select/11_Forget_Me_Not_Boston_Manor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Martha Reeves & The Vandellas",
+      "has_synced": false,
+      "path": "select/12_Forget_Me_Not_Martha_Reeves_&_The_Vandellas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/13_Forget_Me_Not_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Bad English",
+      "has_synced": false,
+      "path": "select/14_Forget_Me_Not_Bad_English.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Brian Fallon",
+      "has_synced": false,
+      "path": "select/15_Forget_Me_Not_Brian_Fallon.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "forget-me-not -unknown mix-",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/16_forget-me-not_-unknown_mix-_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Forget Me Not",
+      "artist": "Dark Time Sunshine / Child Actor",
+      "has_synced": false,
+      "path": "select/17_Forget_Me_Not_Dark_Time_Sunshine___Child_Actor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forget-Me-Not",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Forget-Me-Not_Laufey.txt"
+    }
+  ]
+}
