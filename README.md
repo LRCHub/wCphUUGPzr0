@@ -1,0 +1,38 @@
+# Laufey – Forget-Me-Not
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hold up your chin
+Deep breath in
+It's alright
+Here I begin missing him
+It's my plight
+Nothing worth having
+Has come to me easily
+I've sacrificed you
+All of you, completely
+Love you forever,
+don't let go of me
+I left my own homeland
+to chase reverie
+Gleymdu mér aldrei
+þó ég héðan flýg
+Gleymdu mér aldrei,
+elskan mín
+I miss the wind
+Stone-cold kiss on my cheeks
+Bends in your body
+The hope of your spring
+Millions now hear my soliloquy
+I'm still that child
+on a black sand beach
+Love you forever,
+don't let go of me
+I'll die if I wither
+in your memory
+Gleymdu mér aldrei
+þó ég héðan flýg
+Gleymdu mér aldrei,
+elskan mín
+```
